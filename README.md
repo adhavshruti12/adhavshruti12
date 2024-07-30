@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Adhav</h1>
 <h3 align="center">Tech enthusiast</h3>
 
-- 👨‍💻I'm interested in **Web development and Software development**
+- 👨‍💻I'm interested in **Web development and Java development**
 
 - 🌱 I’m currently learning **B.Tech CSE**
 
