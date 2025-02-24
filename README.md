@@ -68,3 +68,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adhavshruti12&show_icons=true&theme=dark" alt="Shruti's GitHub Stats" />
 </p>
 
+<!-- GitHub Streak Card -->
+<h3 align="left">GitHub Streak:</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adhavshruti12&theme=tokyonight&hide_border=true" alt="Shruti's GitHub Streak" />
+</p>
