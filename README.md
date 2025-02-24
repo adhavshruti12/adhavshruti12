@@ -28,6 +28,5 @@
 </a>
  </p>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?adhavhsruti12=adhavshruti12&show_icons=true&theme=dark)
 
 
