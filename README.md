@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shruti Adhav</h1>
 <h3 align="center">Tech enthusiast</h3>
 
-- 👨‍💻I'm interested in **Software development and Java development**  
+- 👨‍💻I'm interested in **Software development , Java development , MERN stack**  
 - 🌱 I’m currently learning **B.Tech CSE**  
-- 👯 I’m looking to collaborate on **Tech NMCOE**  
+- 👯 I’m looking to collaborate on **Open source**  
 - 📫 How to reach me **adhavshruti12@gmail.com**  
 - 😄 Pronouns: **she/her**  
 
